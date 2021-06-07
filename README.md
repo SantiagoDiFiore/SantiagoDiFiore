@@ -14,3 +14,7 @@
 [![Santiago's Stats](https://github-readme-stats.vercel.app/api/?username=SantiagoDiFiore&count_private=true&theme=tokyonight&showicons=true)]()
 [![Santiago's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoDiFiore&langs_count=5&theme=tokyonight)]()
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/santiagodifiore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiagodifiore" height="30" width="40" /></a>
+</p>
