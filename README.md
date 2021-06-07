@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my collaborative project [Kicks](https://github.com/SantiagoDiFiore/grupo_6_Zapatillas)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Java**
 
 - 📫 How to reach me **difiore.san@gmail.com**
 
